@@ -1,0 +1,6 @@
+{
+  "name": "R-WAVE 11D QIL-Engine",
+  "description": "11-Dimensional Quantum-Intelligence Lattice Engine for deterministic environmental state computation and AI-guided scientific insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
